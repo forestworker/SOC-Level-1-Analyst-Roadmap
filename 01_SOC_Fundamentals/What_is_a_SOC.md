@@ -1,3 +1,0 @@
-# What is a SOC?
-
-Notes go here...
