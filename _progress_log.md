@@ -10,3 +10,4 @@ This file tracks my progress on a weekly basis.
 - Completed: DSN/HTTP Detail
 - Completed: Linux Fundamentals
 - Completed Windows Fundamentals
+- Home Lab Created, first experiment done.
