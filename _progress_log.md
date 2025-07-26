@@ -11,3 +11,7 @@ This file tracks my progress on a weekly basis.
 - Completed: Linux Fundamentals
 - Completed Windows Fundamentals
 - Home Lab Created, first experiment done.
+
+## Week 2
+- Completed: Cyber Chain Kill
+- First steps in to phyton 3
