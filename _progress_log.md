@@ -15,3 +15,6 @@ This file tracks my progress on a weekly basis.
 ## Week 2
 - Completed: Cyber Chain Kill
 - First steps in to phyton 3
+- Completed: UKC (Unified Kill Chain)
+- Completed: Diamond Model 
+- Completed: MITRE 
