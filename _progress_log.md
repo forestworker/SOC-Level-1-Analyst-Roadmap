@@ -18,3 +18,13 @@ This file tracks my progress on a weekly basis.
 - Completed: UKC (Unified Kill Chain)
 - Completed: Diamond Model 
 - Completed: MITRE 
+- Completed: Active Directory Basics
+- Completed: Windows Commands Line 
+- Completed: Windows PowerShell
+
+## Week 3
+- Completed Linux Shells
+- Completed Networking Basics
+
+## Week 4
+- Completed Nmap Basics 
